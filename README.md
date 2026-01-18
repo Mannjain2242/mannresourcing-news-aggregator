@@ -1,1 +1,1 @@
-# mannresourcing-news-aggregator
+# mannresourcing-news
